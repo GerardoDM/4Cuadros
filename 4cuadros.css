@@ -1,0 +1,40 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	}
+
+.contenedor1{
+display: flex;
+align-items: flex-start;
+flex-direction: row;
+justify-content: space-between;
+
+}
+
+.contenedor2{
+display: flex;
+justify-content:  space-between;
+flex-direction: row;
+align-items: flex-end;
+
+height: 580px;
+
+/*height: 355px;*/
+}
+
+
+/*height: 580px;*/
+
+
+
+
+.cuadro{
+
+	background-color: red;
+	width: 75px;
+	height: 75px;
+	padding: 0;
+
+}
+
